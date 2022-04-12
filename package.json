@@ -1,9 +1,12 @@
 {
-  "name": "gatsby-plugin-optimizely-js",
+  "name": "@crometrics/gatsby-plugin-optimizely",
   "description": "Easily add Optimizely JS snippet to your website",
   "version": "1.0.1",
   "main": "gatsby-ssr.js",
-  "repository": "git@github.com:CROmetrics/gatsby-plugin-optimizely-js.git",
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/CROmetrics/gatsby-plugin-optimizely-js.git"
+  },
   "author": "Andrew Wessels <andrew.wessels@crometrics.com>",
   "license": "MIT",
   "keywords": [
@@ -12,8 +15,7 @@
     "gatsby",
     "gatsby-plugin"
   ],
-  "scripts": {
-  },
+  "scripts": {},
   "bugs": {
     "url": "https://github.com/CROmetrics/gatsby-plugin-optimizely-js/issues"
   },
