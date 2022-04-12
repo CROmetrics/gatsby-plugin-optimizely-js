@@ -1,6 +1,6 @@
 {
-  "name": "@crometrics/gatsby-plugin-optimizely",
-  "description": "Easily add Optimizely JS snippet to your website",
+  "name": "@crometrics/gatsby-plugin-optimizely-js",
+  "description": "A Gatsby plugin to add an Optimizely JS Snippet to your site",
   "version": "1.0.1",
   "main": "gatsby-ssr.js",
   "repository": {
