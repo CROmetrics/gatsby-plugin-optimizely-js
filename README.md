@@ -5,7 +5,7 @@ A Gatsby plugin to add an [Optimizely JS Snippet](https://support.optimizely.com
 
 ## Install
 
-`$ npm install --save gatsby-plugin-optimizely-js`
+`$ npm install --save @crometrics/gatsby-plugin-optimizely-js`
 
 ## How to use
 
@@ -16,7 +16,7 @@ In your gatsby-config.js file:
 ```javascript
 plugins: [
   {
-    resolve: `gatsby-plugin-optimizely-js`,
+    resolve: `@crometrics/gatsby-plugin-optimizely-js`,
     options: {
       // The optimizely id of the project. 
       // This is the number that appears in the snippet.
